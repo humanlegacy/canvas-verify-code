@@ -1,5 +1,9 @@
 {
   "name": "canvas-verify-code",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:humanlegacy/canvas-verify-code.git"
+  },
   "version": "1.0.1",
   "description": "使用Canvas实现验证码功能，不依赖任何js库",
   "main": "index.js",
